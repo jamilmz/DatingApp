@@ -1,0 +1,4 @@
+.vscide
+bin
+obj
+*.db
